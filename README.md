@@ -38,6 +38,13 @@ This project is deployed on [Vercel](https://vercel.com/). You can view the live
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
+## Authentication
+
+To log in to the application, use the following credentials:
+
+- **Email:** user@nextmail.com
+- **Password:** 123456
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
